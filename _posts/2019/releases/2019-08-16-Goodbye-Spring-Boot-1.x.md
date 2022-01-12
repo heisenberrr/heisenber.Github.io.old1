@@ -29,8 +29,8 @@ Spring Boot 2.X 也是时候走向舞台中心接力 Spring Boot 1.x 的历史�
 - 2015年11月16号，Spring Boot 发布 v1.3.0.RELEASE，增加了新 `spring-boot-devtools` 模块，缓存自动配置、颜色 banners 等新特性。
 - 2016年07月29号，Spring Boot 发布 v1.4.0.RELEASE，以 Spring 4.3 为基础进行的构建，更新了很多第三方库的支持，重点增加了 Neo4J, Couchbase、 Redis 等 Nosql 的支持。
 - 2017年01月30号，Spring Boot 发布 v1.5.0.RELEASE，更新了动态日志修改，增加 Apache Kafka、LDAP、事物管理等特性的支持。
-- 2018年03月01号，Spring Boot 发布 v2.0.0.RELEASE，2.0更新的内容就太多了，详情请参考：[Spring Boot 2.0权威发布](http://www.ityouknow.com/springboot/2018/03/01/spring-boot-2.0.html)
-- 2018年10月30号，Spring Boot 发布 v2.1.0.RELEASE，主要更新了相关特性，详见：[Spring Boot 2.1.0 权威发布](http://www.ityouknow.com/springboot/2018/03/01/spring-boot-2.0.html)
+- 2018年03月01号，Spring Boot 发布 v2.0.0.RELEASE，2.0更新的内容就太多了，详情请参考：[Spring Boot 2.0权威发布](http://www.intelyes.xyz/springboot/2018/03/01/spring-boot-2.0.html)
+- 2018年10月30号，Spring Boot 发布 v2.1.0.RELEASE，主要更新了相关特性，详见：[Spring Boot 2.1.0 权威发布](http://www.intelyes.xyz/springboot/2018/03/01/spring-boot-2.0.html)
 
 当时 Spring Boot 2.0 刚刚发布的时候，我说过一段话：
 
@@ -48,7 +48,7 @@ Spring Boot 1.x 只是停止维护，并不是不能用了，如果你不是特�
 
 Spring Boot 2.x 对 Java 环境的要求最低为 JDK 8，可能还有很多的公司服务器还在 1.6 或者 1.7 的环境中跑着，升级的时候也需要先升级服务器的基础环境。
 
-如果项目中使用了微服务架构，建议可以一个一个子服务进行升级，不要一次全部升级完成，保障整个服务在升级过程的稳定性。我之前写过 Spring Boot 1.x 升级 2.x 的文章，大家可以参考：[Spring Boot 2.0 版的开源项目云收藏来了！](http://www.ityouknow.com/springboot/2018/06/03/favorites-spring-boot-2.0.html)。
+如果项目中使用了微服务架构，建议可以一个一个子服务进行升级，不要一次全部升级完成，保障整个服务在升级过程的稳定性。我之前写过 Spring Boot 1.x 升级 2.x 的文章，大家可以参考：[Spring Boot 2.0 版的开源项目云收藏来了！](http://www.intelyes.xyz/springboot/2018/06/03/favorites-spring-boot-2.0.html)。
 
 最后祝愿 Spirng Boot 发展越来越好。
 

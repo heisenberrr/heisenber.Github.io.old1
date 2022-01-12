@@ -34,7 +34,7 @@ Github Pages 使用 Jekyll 来构建内容，那么 Jekyll 是什么呢？
 
 Jekyll 是一个简单的博客形态的静态站点生产机器。它有一个模版目录，其中包含原始文本格式的文档，通过一个转换器（如 Markdown）和我们的 Liquid 渲染器转化成一个完整的可发布的静态网站，你可以发布在任何你喜爱的服务器上。Jekyll 也可以运行在 GitHub Page 上，也就是说，你可以使用 GitHub 的服务来搭建你的项目页面、博客或者网站，而且是完全免费的。
 
-但如果我们只是在 GitHub 上面使用的话，到不需要知道 Jekyll 的语法，一般 Github 会自动将我们写的 Markdown  文件转换成静态页面。使用 Jekyll 需要使用 Markdown 语法来写你的文章，不过 Markdown 语法非常简单，做为程序员来讲基本上两三天就掌握了，大家也可以参考这篇文章：[markdown 使用总结](http://www.ityouknow.com/other/2015/10/18/markdown-summary.html)。
+但如果我们只是在 GitHub 上面使用的话，到不需要知道 Jekyll 的语法，一般 Github 会自动将我们写的 Markdown  文件转换成静态页面。使用 Jekyll 需要使用 Markdown 语法来写你的文章，不过 Markdown 语法非常简单，做为程序员来讲基本上两三天就掌握了，大家也可以参考这篇文章：[markdown 使用总结](http://www.intelyes.xyz/other/2015/10/18/markdown-summary.html)。
 
 给大家分享一些 Jekyll 主题，这个网站下有很多 [http://jekyllthemes.org/](http://jekyllthemes.org/) 主题，大家可以根据自己的爱好去选择博客主题。
 
@@ -42,9 +42,9 @@ Jekyll 是一个简单的博客形态的静态站点生产机器。它有一个�
 
 我的博客经过了三个阶段，第一个阶段，完全依托于使用 GitHub Pages 来构建；第二个阶段，将博客托管于国外的一个服务商；第三个阶段，服务器迁移回到国内、域名备案。之前也写过几篇关于技术博客的文章，如下：
 
-- [千里追踪博客之殇](http://www.ityouknow.com/other/2017/09/10/blog-stop-a-month.html)
-- [历时25天，我的博客（www.ityouknow.com）终于又活了过来](http://www.ityouknow.com/life/2018/06/10/my-blog-back.html)
-- [技术博客那些事儿](http://www.ityouknow.com/other/2017/07/16/operating-technology-blog.html)
+- [千里追踪博客之殇](http://www.intelyes.xyz/other/2017/09/10/blog-stop-a-month.html)
+- [历时25天，我的博客（www.intelyes.xyz）终于又活了过来](http://www.intelyes.xyz/life/2018/06/10/my-blog-back.html)
+- [技术博客那些事儿](http://www.intelyes.xyz/other/2017/07/16/operating-technology-blog.html)
 
 使用 Github Pages + Jekyll 构建一个技术博客很简单，基本上步骤就是网上找一个自己喜欢的主题，直接 Fork 到自己的 Github ，然后在删掉原博客中的内容，在上传自己的文章即可，以我自己的博客为例。
 
@@ -166,7 +166,7 @@ jekyll build --destination=/usr/share/nginx/html
 在 Github 仓库的项目界面，比如本博客项目 `https://github.com/ityouknow/ityouknow.github.io`，点击 Setting->Webhooks->Add Webhook，在添加 Webhooks 的配置信息，我的配置信息如下：
 
 ```
-Payload URL: http://www.ityouknow.com/deploy
+Payload URL: http://www.intelyes.xyz/deploy
 Content type: application/json
 Secret: 123456
 ```
@@ -286,7 +286,7 @@ location = /deploy {
 }
 ```
 
-这样我们整个自动化部署就完了，每次提交代码时，Github 会发送 Webhook 给地址`http://www.ityouknow.com/deploy`，Nginx 将 `/deploy` 地址转发给 Nodejs 端口为 3306 的服务，最后通过 github-webhook-handler 来执行部署脚本，已到达自动部署的目的。
+这样我们整个自动化部署就完了，每次提交代码时，Github 会发送 Webhook 给地址`http://www.intelyes.xyz/deploy`，Nginx 将 `/deploy` 地址转发给 Nodejs 端口为 3306 的服务，最后通过 github-webhook-handler 来执行部署脚本，已到达自动部署的目的。
 
 以后只需要我们提交代码到 Github ,就会自动触发博客的自动化部署。
 
@@ -298,7 +298,7 @@ location = /deploy {
 
 这是很多读者反馈的第一个问题，因为我的博客 css 和 图片是放到另外一个域名下的：www.itmind.net ，因此这块大家克隆过去需要改成本地的。
 
-主要涉及的文件 `ityouknow.github.io\_includes` 目录下 head.html 和 footer.html 两个文件夹，将文件中的 `http://www.ityouknow.com/xxx/xxx` 改为相对路径`/xxx/xxx`即可。
+主要涉及的文件 `ityouknow.github.io\_includes` 目录下 head.html 和 footer.html 两个文件夹，将文件中的 `http://www.intelyes.xyz/xxx/xxx` 改为相对路径`/xxx/xxx`即可。
 
 
 2、留言功能丢失

@@ -55,7 +55,7 @@ function e_secret($atts, $content=null){
 			    <span>【注】</span>”在微信里搜索“不会笑青年”或者“laughyouth”或者微信扫描右侧二维码都可以关注微信公众号。
 			</div>
 			</div>
-			<img src="http://www.ityouknow.com/assets/images/cartoon.jpg" alt="不会笑青年" >
+			<img src="http://www.intelyes.xyz/assets/images/cartoon.jpg" alt="不会笑青年" >
 			</form>
 		';
 	 }

@@ -26,11 +26,11 @@ lock: need
 
 十年系列文章：
 
-- [① 我是如何走向程序生涯](http://www.ityouknow.com/life/2019/06/12/ten-years-of-program-career.html)
-- [② 毕业即失业，找工作找到怀疑人生](http://www.ityouknow.com/life/2019/08/10/jobless.html)
-- [③ 深圳流水线工厂，我差点和主管打了起来](http://www.ityouknow.com/life/2019/08/13/shenzhen-10year.html)
-- [④ 富士康14跳被我赶上了，流水线车间真的没有梦想](http://www.ityouknow.com/life/2019/09/12/fushikang-10year.html)
-- [⑤我在培训机构折腾的经历，再和大家聊聊这个行业](http://www.ityouknow.com/life/2019/10/31/training-10year.html)
+- [① 我是如何走向程序生涯](http://www.intelyes.xyz/life/2019/06/12/ten-years-of-program-career.html)
+- [② 毕业即失业，找工作找到怀疑人生](http://www.intelyes.xyz/life/2019/08/10/jobless.html)
+- [③ 深圳流水线工厂，我差点和主管打了起来](http://www.intelyes.xyz/life/2019/08/13/shenzhen-10year.html)
+- [④ 富士康14跳被我赶上了，流水线车间真的没有梦想](http://www.intelyes.xyz/life/2019/09/12/fushikang-10year.html)
+- [⑤我在培训机构折腾的经历，再和大家聊聊这个行业](http://www.intelyes.xyz/life/2019/10/31/training-10year.html)
 
 提前了解 10 年经历，可以看看这个漫画：[“失败”的北漂十年经历](https://mp.weixin.qq.com/s/-zhXIkyL2dSABxC3211QEQ)，这里有我的一段故事。
 
@@ -44,7 +44,7 @@ lock: need
 
 到底是怎么回事，我给大家详细讲讲。
 
-上篇文章[《我的培训机构经历》](http://www.ityouknow.com/life/2019/10/31/training-10year.html)
+上篇文章[《我的培训机构经历》](http://www.intelyes.xyz/life/2019/10/31/training-10year.html)
 中讲到，从培训机构培训完后我找到了一份满意的工作，也是我从校园出来的第一份工作，我们一个培训班进了5个人，所以大家租房上班都在一起，每天高高兴兴的上班下班，我对工作也充满了信心和期待。
 
 这个香港来的电信公司还不错，五险一金和其它福利在西安同等公司里面算好的，最最重要的是这家公司还会给每个入职的同事做一个月的免费培训，主要的培训内容就是 Oracle 和 Linux 相关知识。

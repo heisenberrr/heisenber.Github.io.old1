@@ -149,7 +149,7 @@ lock: need
 - 拍照地点的纬度是：22；18；31.45248399999403
 - 拍照地点的经度是：114；15；37.051390999986324
 
-然后我再根据文章[《我怎么就被一张照片出卖了？》](http://www.ityouknow.com/it/2019/11/09/photoresolution.html)中的方法，在谷歌地图上查找了小贾当时的位置，谷歌搜索的地点如下：
+然后我再根据文章[《我怎么就被一张照片出卖了？》](http://www.intelyes.xyz/it/2019/11/09/photoresolution.html)中的方法，在谷歌地图上查找了小贾当时的位置，谷歌搜索的地点如下：
 
 ![](http://favorites.ren/assets/images/2019/it/chuanxiao08.jpeg)
 

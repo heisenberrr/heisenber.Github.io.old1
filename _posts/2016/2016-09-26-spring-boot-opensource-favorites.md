@@ -50,7 +50,7 @@ tags: [云收藏]
 
 ## 技术点
 
-这段时间我们团队主要在学习 Spring Boot,这个开源项目也就成了我们的练习新技术的一个非常好的产品，主要的技术都是和 Spring Boot相关，可以参考我以前文章 [Spring Boot 系列文章](http://www.ityouknow.com/spring-boot.html)
+这段时间我们团队主要在学习 Spring Boot,这个开源项目也就成了我们的练习新技术的一个非常好的产品，主要的技术都是和 Spring Boot相关，可以参考我以前文章 [Spring Boot 系列文章](http://www.intelyes.xyz/spring-boot.html)
 
 ### 网页端
 
@@ -63,15 +63,15 @@ tags: [云收藏]
 
 **前端**
 
-前端页面由[Angle - Bootstrap Admin theme](https://wrapbootstrap.com/theme/angle-bootstrap-admin-template-WB04HF123)这套主题改造而来;模版引擎使用了`thymeleaf`，可以参考这篇文章：[Spring Boot(四)：Thymeleaf 使用详解](http://www.ityouknow.com/springboot/2016/05/01/spring-boot-thymeleaf.html)
+前端页面由[Angle - Bootstrap Admin theme](https://wrapbootstrap.com/theme/angle-bootstrap-admin-template-WB04HF123)这套主题改造而来;模版引擎使用了`thymeleaf`，可以参考这篇文章：[Spring Boot(四)：Thymeleaf 使用详解](http://www.intelyes.xyz/springboot/2016/05/01/spring-boot-thymeleaf.html)
  
 **持久层**
 
-数据库主要使用了 Spring Data Jpa 模版来实现，可以参考这篇文章：[Spring Boot(五)：Spring Data Jpa 的使用](http://www.ityouknow.com/springboot/2016/08/20/spring-boo-jpa.html)
+数据库主要使用了 Spring Data Jpa 模版来实现，可以参考这篇文章：[Spring Boot(五)：Spring Data Jpa 的使用](http://www.intelyes.xyz/springboot/2016/08/20/spring-boo-jpa.html)
 
 **session**
 
-session 使用持久化技术来保存登录状态，登录一次保持需要会话30天，主要是依赖 Redis 来实现，参考：[Spring Boot(三)：Spring Boot 中 Redis 的使用](http://www.ityouknow.com/springboot/2016/03/06/spring-boot-redis.html)
+session 使用持久化技术来保存登录状态，登录一次保持需要会话30天，主要是依赖 Redis 来实现，参考：[Spring Boot(三)：Spring Boot 中 Redis 的使用](http://www.intelyes.xyz/springboot/2016/03/06/spring-boot-redis.html)
 
 **其它**
 

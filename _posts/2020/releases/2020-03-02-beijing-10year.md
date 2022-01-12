@@ -19,23 +19,23 @@ lock: need
 
 十年系列文章：
 
-1.[我是如何走向程序生涯](http://www.ityouknow.com/life/2019/06/12/ten-years-of-program-career.html)
+1.[我是如何走向程序生涯](http://www.intelyes.xyz/life/2019/06/12/ten-years-of-program-career.html)
 
-2.[毕业即失业，找工作找到怀疑人生](http://www.ityouknow.com/life/2019/08/10/jobless.html)
+2.[毕业即失业，找工作找到怀疑人生](http://www.intelyes.xyz/life/2019/08/10/jobless.html)
 
-3.[深圳流水线工厂，我差点和主管打了起来](http://www.ityouknow.com/life/2019/08/13/shenzhen-10year.html)
+3.[深圳流水线工厂，我差点和主管打了起来](http://www.intelyes.xyz/life/2019/08/13/shenzhen-10year.html)
 
-4.[富士康14跳被我赶上了，流水线车间真的没有梦想](http://www.ityouknow.com/life/2019/09/12/fushikang-10year.html)
+4.[富士康14跳被我赶上了，流水线车间真的没有梦想](http://www.intelyes.xyz/life/2019/09/12/fushikang-10year.html)
 
-5.[我在培训机构折腾的经历，再和大家聊聊这个行业](http://www.ityouknow.com/life/2019/10/31/training-10year.html)
+5.[我在培训机构折腾的经历，再和大家聊聊这个行业](http://www.intelyes.xyz/life/2019/10/31/training-10year.html)
 
-6.[第 1 份工作，我只干了 2 周就被辞退了！](http://www.ityouknow.com/life/2019/11/06/firstjob-10year.html)
+6.[第 1 份工作，我只干了 2 周就被辞退了！](http://www.intelyes.xyz/life/2019/11/06/firstjob-10year.html)
 
-7.[我在华为做外包的真实经历！](http://www.ityouknow.com/life/2019/12/08/waibao-10year.html)
+7.[我在华为做外包的真实经历！](http://www.intelyes.xyz/life/2019/12/08/waibao-10year.html)
 
-8.[我在职场第一次薪资翻倍的经历！](http://www.ityouknow.com/life/2019/12/18/xinzi-10year.html)
+8.[我在职场第一次薪资翻倍的经历！](http://www.intelyes.xyz/life/2019/12/18/xinzi-10year.html)
 
-如果你想提前了解 10 年经历，可以看看这个漫画：[《“失败”的北漂十年经历》](http://www.ityouknow.com/cartoon/2019/11/27/failbeipiao.html)，这里有我的一段故事。
+如果你想提前了解 10 年经历，可以看看这个漫画：[《“失败”的北漂十年经历》](http://www.intelyes.xyz/cartoon/2019/11/27/failbeipiao.html)，这里有我的一段故事。
 
 
 ## 2.来北京时

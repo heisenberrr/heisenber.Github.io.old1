@@ -25,10 +25,10 @@ excerpt: 原谅我这一生不羁放纵爱自由
 
 十年系列文章：
 
-- [① 我是如何走向程序生涯](http://www.ityouknow.com/life/2019/06/12/ten-years-of-program-career.html)
-- [② 毕业即失业，找工作找到怀疑人生](http://www.ityouknow.com/life/2019/08/10/jobless.html)
-- [③ 深圳流水线工厂，我差点和主管打了起来](http://www.ityouknow.com/life/2019/08/13/shenzhen-10year.html)
-- [④ 富士康14跳被我赶上了，流水线车间真的没有梦想](http://www.ityouknow.com/life/2019/09/12/fushikang-10year.html)
+- [① 我是如何走向程序生涯](http://www.intelyes.xyz/life/2019/06/12/ten-years-of-program-career.html)
+- [② 毕业即失业，找工作找到怀疑人生](http://www.intelyes.xyz/life/2019/08/10/jobless.html)
+- [③ 深圳流水线工厂，我差点和主管打了起来](http://www.intelyes.xyz/life/2019/08/13/shenzhen-10year.html)
+- [④ 富士康14跳被我赶上了，流水线车间真的没有梦想](http://www.intelyes.xyz/life/2019/09/12/fushikang-10year.html)
 
 提前了解 10 年经历，可以看看这个漫画：[“失败”的北漂十年经历](https://mp.weixin.qq.com/s/-zhXIkyL2dSABxC3211QEQ)，这里有我的一段故事。
 
@@ -82,7 +82,7 @@ excerpt: 原谅我这一生不羁放纵爱自由
 
 寻找培训机构这段时间，开启了我人生最疯狂的搬家经历，一年搬家超过 7 次，最最重要的是当时搬家几乎都是利用公交车和三轮车开启的。
 
-对搬家这段经历感兴趣的朋友，可以看早年写的这篇文章：[《那些年，我们租过的房子》](http://www.ityouknow.com/life/2017/04/21/house-rented.html)。
+对搬家这段经历感兴趣的朋友，可以看早年写的这篇文章：[《那些年，我们租过的房子》](http://www.intelyes.xyz/life/2017/04/21/house-rented.html)。
 
 当年在西安的市场上，没几家做软件培训的企业，稍微有点规模的我基本上都去看了看，收费大概都在 1-1.6 w ，培训周期在 4个月-1年半。
 

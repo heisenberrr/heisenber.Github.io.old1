@@ -105,5 +105,5 @@ excerpt: 传说中的程序员
 
 *推荐阅读：*
 
-[《漫画第一期：程序员十二时辰》](http://www.ityouknow.com/it/2019/08/09/12hour.html)
+[《漫画第一期：程序员十二时辰》](http://www.intelyes.xyz/it/2019/08/09/12hour.html)
 

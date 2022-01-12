@@ -34,7 +34,7 @@ permalink: /link
 - [抖音视频下载](https://free-tiktok.com/) - 抖音、Youtube、instagram视频去水印下载
 - [MD工具](http://relatos.top/md/) - markdown转发html在线工具  
 - [htmlToMD工具](http://relatos.top/2md/) - 在线将页面转发为markdown工具  
-- [公众号编辑器](http://md.ityouknow.com/) - 可以以优雅的方式在微信公众号去发布markdown文章
+- [公众号编辑器](http://md.intelyes.xyz/) - 可以以优雅的方式在微信公众号去发布markdown文章
 - [人工智能教程博客](http://www.captainbed.net/blog-neo) - 一个幽默的系列课程
 - [闷瓜蛋子的博客](https://fookwood.com) - 八年博客，大公司小公司游荡多年，目前为自由职业
 - [匠心零度博客](http://www.jiangxinlingdu.com/) - 以匠心，铸非凡！
@@ -48,7 +48,7 @@ permalink: /link
 
 ## 个人链接
 
-- [ityouknow](http://www.ityouknow.com/) - 个人独立博客
+- [ityouknow](http://www.intelyes.xyz/) - 个人独立博客
 - [github](https://github.com/ityouknow) -  我分享代码的地方
 - [微博](http://weibo.com/ityouknow) -  我的微博
 - [知乎](https://www.zhihu.com/people/ityouknow) - 个人知乎地址，回答一些问题
@@ -61,6 +61,6 @@ permalink: /link
 *需要展示你的网站，就在本页下面留言吧，也算是一种宣传方式。格式要求如下：*
 
 - 网站名称：ityouknow  
-- 网站链接：http://www.ityouknow.com  
+- 网站链接：http://www.intelyes.xyz  
 - 网站描述：neo 的个人博客，分享技术，分享生活  
 

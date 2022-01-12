@@ -7,7 +7,7 @@ tags: [springboot]
 keywords: Spring Boot,开源项目,学习教程
 ---
 
-2016年，在一次技术调研的过程中认识到了 Spring Boot ，试用之后便一发不可收拾的爱上它。为了防止学习之后忘记，就在网上连载了 [Spring Boot 系列文章](http://www.ityouknow.com/spring-boot.html)，没想到这一开始便与 Spring Boot 深度结缘。
+2016年，在一次技术调研的过程中认识到了 Spring Boot ，试用之后便一发不可收拾的爱上它。为了防止学习之后忘记，就在网上连载了 [Spring Boot 系列文章](http://www.intelyes.xyz/spring-boot.html)，没想到这一开始便与 Spring Boot 深度结缘。
 
 近三年的时间写了一百多篇关于 Spring Boot 的文章（包含两个课程），在写文章的过程中将文中的示例项目托管在 Github 上面，随着学习 Spring Boot 的朋友越来越多，在 Github 上面的关注（Star）人数也越来越多，到现在已经高达 18300 多个 Star。
 

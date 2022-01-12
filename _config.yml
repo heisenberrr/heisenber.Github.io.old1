@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: ityouknow/ityouknow.github.io
 github_url: https://github.com/ityouknow
 url: http://www.intelyes.xyz
-enforce_ssl: ityouknow.com
+enforce_ssl: intelyes.xyz
 
 ## Gem
 plugins:

@@ -23,27 +23,27 @@ lock: need
 
 十年系列文章：
 
-1.[我是如何走向程序生涯 ~ 2009](http://www.ityouknow.com/life/2019/06/12/ten-years-of-program-career.html)
+1.[我是如何走向程序生涯 ~ 2009](http://www.intelyes.xyz/life/2019/06/12/ten-years-of-program-career.html)
 
-2.[毕业即失业，找工作找到怀疑人生 ~ 2009](http://www.ityouknow.com/life/2019/08/10/jobless.html)
+2.[毕业即失业，找工作找到怀疑人生 ~ 2009](http://www.intelyes.xyz/life/2019/08/10/jobless.html)
 
-3.[深圳流水线工厂，我差点和主管打了起来 ~ 2009](http://www.ityouknow.com/life/2019/08/13/shenzhen-10year.html)
+3.[深圳流水线工厂，我差点和主管打了起来 ~ 2009](http://www.intelyes.xyz/life/2019/08/13/shenzhen-10year.html)
 
-4.[富士康14跳被我赶上了，流水线车间真的没有梦想 ~ 2009](http://www.ityouknow.com/life/2019/09/12/fushikang-10year.html)
+4.[富士康14跳被我赶上了，流水线车间真的没有梦想 ~ 2009](http://www.intelyes.xyz/life/2019/09/12/fushikang-10year.html)
 
-5.[我在培训机构折腾的经历，再和大家聊聊这个行业 ~ 2010](http://www.ityouknow.com/life/2019/10/31/training-10year.html)
+5.[我在培训机构折腾的经历，再和大家聊聊这个行业 ~ 2010](http://www.intelyes.xyz/life/2019/10/31/training-10year.html)
 
-6.[第 1 份工作，我只干了 2 周就被辞退了！ ~ 2010](http://www.ityouknow.com/life/2019/11/06/firstjob-10year.html)
+6.[第 1 份工作，我只干了 2 周就被辞退了！ ~ 2010](http://www.intelyes.xyz/life/2019/11/06/firstjob-10year.html)
 
-7.[我在华为做外包的真实经历！~ 2010](http://www.ityouknow.com/life/2019/12/08/waibao-10year.html)
+7.[我在华为做外包的真实经历！~ 2010](http://www.intelyes.xyz/life/2019/12/08/waibao-10year.html)
 
-8.[我在职场第一次薪资翻倍的经历！~ 2011-2012](http://www.ityouknow.com/life/2019/12/18/xinzi-10year.html)
+8.[我在职场第一次薪资翻倍的经历！~ 2011-2012](http://www.intelyes.xyz/life/2019/12/18/xinzi-10year.html)
 
-9.[来北京的那 1 年，我被动创业了 2 次！~ 2013](http://www.ityouknow.com/life/2020/03/02/beijing-10year.html)
+9.[来北京的那 1 年，我被动创业了 2 次！~ 2013](http://www.intelyes.xyz/life/2020/03/02/beijing-10year.html)
 
-10.[薪资才是衡量你到底重不重要的第一标准！~ 2014](http://www.ityouknow.com/life/2020/03/19/xinzi-10year.html)
+10.[薪资才是衡量你到底重不重要的第一标准！~ 2014](http://www.intelyes.xyz/life/2020/03/19/xinzi-10year.html)
 
-如果你想提前了解 10 年经历，可以看看这个漫画：[《“失败”的北漂十年经历》](http://www.ityouknow.com/cartoon/2019/11/27/failbeipiao.html)，这里有我的一段故事。
+如果你想提前了解 10 年经历，可以看看这个漫画：[《“失败”的北漂十年经历》](http://www.intelyes.xyz/cartoon/2019/11/27/failbeipiao.html)，这里有我的一段故事。
 
 ## 2.抢风口的大背景
 
@@ -63,11 +63,11 @@ lock: need
 
 ## 3.2014年启动
 
-上篇文章[《薪资才是衡量你到底重不重要的第一标准！》](http://www.ityouknow.com/life/2020/03/19/xinzi-10year.html)和大家聊过刚开始我们只有 APP 端，作为一个要**跻身成为头部**的玩家，没有官网怎么能行，于是开始带领团队开始做官网，也就是 PC 端的交易系统。
+上篇文章[《薪资才是衡量你到底重不重要的第一标准！》](http://www.intelyes.xyz/life/2020/03/19/xinzi-10year.html)和大家聊过刚开始我们只有 APP 端，作为一个要**跻身成为头部**的玩家，没有官网怎么能行，于是开始带领团队开始做官网，也就是 PC 端的交易系统。
 
 在做 PC 端的产品时，因为要做新的系统，就和之前的APP 端的服务做了分割，同时启用了我们的**第二代**系统架构，对可以拆分的服务都拆分开来。
 
-具体可以参考很早之前写的文章：[《从零到百亿互联网金融架构发展史》](http://www.ityouknow.com/arch/2017/01/10/ten-billion-architecture-history.html)。
+具体可以参考很早之前写的文章：[《从零到百亿互联网金融架构发展史》](http://www.intelyes.xyz/arch/2017/01/10/ten-billion-architecture-history.html)。
 
 官网只是用户浏览的前端，**核心交易是通过分布式的服务来对接**，当官网上线的时候从最开始的几个服务已经扩展到了十几个。
 
@@ -97,17 +97,17 @@ lock: need
 
 当时写了一些列的文章，大家可以看看：
 
--[《一次生产事故的优化经历》](http://www.ityouknow.com/arch/2017/02/06/one-production-accident-optimization-experience.html)
+-[《一次生产事故的优化经历》](http://www.intelyes.xyz/arch/2017/02/06/one-production-accident-optimization-experience.html)
 
--[《一次dns缓存引发的惨案》](http://www.ityouknow.com/arch/2017/02/09/a-tragedy-caused-by-dns-cache.html)
+-[《一次dns缓存引发的惨案》](http://www.intelyes.xyz/arch/2017/02/09/a-tragedy-caused-by-dns-cache.html)
 
--[《一个脚本引发的血案》](http://www.ityouknow.com/arch/2017/02/12/a-script-caused-bloody-case.html)
+-[《一个脚本引发的血案》](http://www.intelyes.xyz/arch/2017/02/12/a-script-caused-bloody-case.html)
 
--[《互联网金融大战黑客》](http://www.ityouknow.com/arch/2017/02/15/internet-financial-war-hacker.html)
+-[《互联网金融大战黑客》](http://www.intelyes.xyz/arch/2017/02/15/internet-financial-war-hacker.html)
 
--[《百亿互金平台救火故事》](http://www.ityouknow.com/arch/2017/02/16/ten-billion-gold-platform-firefighting-story.html)
+-[《百亿互金平台救火故事》](http://www.intelyes.xyz/arch/2017/02/16/ten-billion-gold-platform-firefighting-story.html)
 
--[《百亿互金平台技术栈大起底》](http://www.ityouknow.com/arch/2017/06/30/technology-stack.html)
+-[《百亿互金平台技术栈大起底》](http://www.intelyes.xyz/arch/2017/06/30/technology-stack.html)
 
 
 ## 5.2016年平稳

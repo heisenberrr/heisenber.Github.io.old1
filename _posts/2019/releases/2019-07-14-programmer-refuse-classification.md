@@ -29,7 +29,7 @@ excerpt: 让我看看你属于什么垃圾？
 
 **牛逼的留言**
 
-当年我把这篇文章[《一次生产事故的优化经历》](http://www.ityouknow.com/arch/2017/02/06/one-production-accident-optimization-experience.html)文章发布到 51CTO 的时候，有一个史无前例的大神出现了。
+当年我把这篇文章[《一次生产事故的优化经历》](http://www.intelyes.xyz/arch/2017/02/06/one-production-accident-optimization-experience.html)文章发布到 51CTO 的时候，有一个史无前例的大神出现了。
 
 ![](http://favorites.ren/assets/images/2019/it/laji03.jpg)
 

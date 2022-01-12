@@ -23,9 +23,9 @@ excerpt: 生活没有希望...
 
 十年系列文章：
 
-- [① 我是如何走向程序生涯](http://www.ityouknow.com/life/2019/06/12/ten-years-of-program-career.html)
-- [② 毕业即失业，找工作找到怀疑人生](http://www.ityouknow.com/life/2019/08/10/jobless.html)
-- [③ 深圳流水线工厂，我差点和主管打了起来](http://www.ityouknow.com/life/2019/08/13/shenzhen-10year.html)
+- [① 我是如何走向程序生涯](http://www.intelyes.xyz/life/2019/06/12/ten-years-of-program-career.html)
+- [② 毕业即失业，找工作找到怀疑人生](http://www.intelyes.xyz/life/2019/08/10/jobless.html)
+- [③ 深圳流水线工厂，我差点和主管打了起来](http://www.intelyes.xyz/life/2019/08/13/shenzhen-10year.html)
 
 提前了解 10 年经历，可以看看这个漫画：[“失败”的北漂十年经历](https://mp.weixin.qq.com/s/-zhXIkyL2dSABxC3211QEQ)，这里有我的一段故事。
 
