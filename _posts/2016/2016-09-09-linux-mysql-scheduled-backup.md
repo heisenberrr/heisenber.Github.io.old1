@@ -304,6 +304,6 @@ chmod 777 rsync.sh
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：海森堡**  
 **出处：[www.intelyes.xyz](http://www.intelyes.xyz)**   
 **版权所有，欢迎保留原文链接进行转载 :)**

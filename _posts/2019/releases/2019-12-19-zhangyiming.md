@@ -7,7 +7,7 @@ tags: [it]
 excerpt: 我们都需要在残酷的世界里，闯出自己的一片天空
 ---
 
->**纯洁的微笑**——用技术的角度看世界，这里是一个有故事的程序员。
+>**海森堡**——用技术的角度看世界，这里是一个有故事的程序员。
 
 ![](http://favorites.ren/assets/images/2019/it/zhangyiming01.jpg)
 ![](http://favorites.ren/assets/images/2019/it/zhangyiming02.jpg)

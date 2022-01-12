@@ -40,14 +40,14 @@ tags: [life]
 以后在这里我将开始分享我的技术和生活。
 
 
-我的公众号是：纯洁的微笑（KeepPureSmile），欢迎大家关注。
+我的公众号是：海森堡（KeepPureSmile），欢迎大家关注。
 
  
 ![](http://favorites.ren/assets/images/keeppuresmile.jpg)
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：海森堡**  
 **出处：[http://www.intelyes.xyz/](http://www.intelyes.xyz/life/2017/04/26/open-wechat.html)**      
 **版权归作者所有，转载请注明出处** 
 
